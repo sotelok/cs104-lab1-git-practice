@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#adding hello_world to remove from untracked files
+hello_world
